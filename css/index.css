@@ -1,0 +1,35 @@
+@font-face{
+	font-family: "SSS";
+	src: url("../fonts/Sketch 3D.otf");
+}
+
+@font-face{
+	font-family: "sorry";
+	src: url("../fonts/SORRY_SORRY.ttf");
+}
+
+@font-face{
+	font-family: "dd";
+	src: url("../fonts/DD.ttf");
+}
+
+#title{
+	font-family: "SSS";
+	font-size: 2em;
+}
+#text{
+	font-family: "sorry";
+}
+#login_button{
+	font-family: "SSS";
+	font-size: 1.2em;
+}
+#post-title{
+	font-family: "dd";
+	font-size: 1.2em;
+}
+
+#journal-text{
+	font-family: "dd";
+	font-size: 1.2em;
+}
